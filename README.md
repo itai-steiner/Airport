@@ -1,2 +1,2 @@
-Airport simulator, every airplane is an individual process.
+Airport simulator
 compile files and run airportSim.java
