@@ -1,5 +1,4 @@
 //Name: Itai Steiner
-//Version: 15.06.16
 
 import java.util.Random;
 
